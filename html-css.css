@@ -1,0 +1,22 @@
+.main-banner {
+	margin: auto;
+}
+.main-wrapper {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.header1 {
+	margin: auto;
+
+	font-family: 'Libre Baskerville', serif;
+}
+
+.content-wrapper {
+	font-size: 0.95em;
+	font-family: 'Open Sans', sans-serif;
+}
